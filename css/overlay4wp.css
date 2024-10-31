@@ -1,0 +1,70 @@
+.simple_overlay {
+	z-index: 10000;
+	border: #999 solid 1px;
+	background-color: #333;
+	display: none;
+}
+.simple_overlay .close {
+	background-image: url(../images/close.png);
+	position: absolute;
+	width: 35px;
+	height: 35px;
+	top: -15px;
+	cursor: pointer;
+	right: -15px;
+}
+#img {
+	border: #666 solid 1px;
+}
+.ow_next,
+.ow_prev {
+	border: #666 solid 1px;
+	position: absolute;
+	padding: 10px 20px;
+	display: block;
+	color: #fff;
+	font-size: 12px;
+	top: 40%;
+	cursor: pointer;
+}
+.ow_prev {
+	border-left: 0px;
+	left: 0px;
+}
+.ow_next {
+	right: 0px;
+	border-right: 0px;
+	margin-right: -1px;
+}
+.ow_next:hover,
+.ow_prev:hover {
+	background-color: #000;
+	text-decoration: underline;
+}
+.ow_disabled {
+	visibility: hidden;
+}
+.ow_info {
+	position: absolute;
+	padding: 10px 15px;
+	bottom: 0px;
+	color: #FFF;
+	font-size: 11px;
+	border-top: #666 solid 1px;
+	left: 1px;
+	margin-bottom: -1px;
+}
+.ow_info strong {
+	display: block;
+}
+.ow_progress {
+	position: absolute;
+	display: none;
+	top: 45%;
+	left: 50%;
+}
+.ow_next,
+.ow_prev,
+.ow_info {
+	background: #333;
+}

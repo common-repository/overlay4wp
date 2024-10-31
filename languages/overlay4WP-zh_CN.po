@@ -1,0 +1,113 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: overlay4WP\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-08-31 23:58+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: bolo <cantonbolo@gmail.com>\n"
+"Language-Team:  <wuzhao.mail@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Chinese\n"
+"X-Poedit-Country: CHINA\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: overlay4WP.php:34
+msgid "Overlay Image"
+msgstr ""
+
+#: overlay4WP.php:44
+msgid "Thumbnail URL: (required)"
+msgstr "缩略图URL（必填）"
+
+#: overlay4WP.php:48
+msgid "Fullsize URL: (required)"
+msgstr "全图URL（必填）"
+
+#: overlay4WP.php:52
+msgid "Description:"
+msgstr "图片描述"
+
+#: overlay4WP.php:56
+msgid "Insert image"
+msgstr "插入图片"
+
+#: overlay4WP.php:78
+msgid "Emoticons"
+msgstr "表情"
+
+#: overlay4WP.php:271
+#: overlay4WP.php:272
+#: overlay4WP.php:309
+#: options.php:28
+msgid "Overlay4WP"
+msgstr ""
+
+#: overlay4WP.php:318
+#: options.php:37
+msgid "Overlay4WP Options"
+msgstr "Overlay4WP 选项"
+
+#: overlay4WP.php:323
+msgid "JavaScript Library"
+msgstr "JavaScript库"
+
+#: overlay4WP.php:327
+msgid "Use normal JavaScript library that is supported by this plugin."
+msgstr "使用插件自带的 JavaScript 库。"
+
+#: overlay4WP.php:332
+msgid "Use jQuery library that is supported by WordPress."
+msgstr "使用 WordPress 提供的 jQuery 库。"
+
+#: overlay4WP.php:337
+msgid "Custom jQuery."
+msgstr "自定义 jQuery 库。"
+
+#: overlay4WP.php:340
+msgid "Please input the URL of jQuery:"
+msgstr "请输入 jQuery 的文件地址："
+
+#: overlay4WP.php:341
+msgid "Effect Setting"
+msgstr "效果设置"
+
+#: overlay4WP.php:342
+msgid "Set your own effect when clicked"
+msgstr "设置点击时的效果"
+
+#: overlay4WP.php:343
+msgid "Images switch speed."
+msgstr "图片切换速度"
+
+#: overlay4WP.php:344
+msgid "Slow"
+msgstr "慢"
+
+#: overlay4WP.php:360
+msgid "Medium"
+msgstr "中"
+
+#: overlay4WP.php:361
+msgid "Fast"
+msgstr "快"
+
+#: overlay4WP.php:400
+msgid "Background colour.Example:#CCCCCC"
+msgstr "背景颜色，例如：#CCCCCC"
+
+#: overlay4WP.php:362
+msgid "prev"
+msgstr "上一张"
+
+#: overlay4WP.php:363
+msgid "next"
+msgstr "下一张"
+
+#: overlay4WP.php:349
+msgid "Save Changes"
+msgstr "保存更改"
+
